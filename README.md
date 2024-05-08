@@ -843,9 +843,9 @@ echo "Tanggal saat ini: $date<br>";
 #### Output
 <img src="img/13.1.png">
 <img src="img/13.2.png">
-- Testing dilakukan dengan cara lynx [IP Worker] di client.
+- Testing worker dilakukan dengan cara lynx [IP Worker] di client. <br>
 <img src="img/15-apache.png">
-- Testing dilakukan dengan cara memasukkan command `ab -n 1000 -c 10 http://10.72.2.4/` (IP Mylta).
+- Testing load balancer dilakukan dengan cara memasukkan command `ab -n 1000 -c 10 http://10.72.2.4/` (IP Mylta).
 
 <a name="soal-14"></a>
 
@@ -1070,7 +1070,7 @@ service nginx status
 <img src="img/14-worker4.jpg">
 <img src="img/14-worker5.jpg">
 <img src="img/14-worker6.jpg">
-- Testing dilakukan dengan cara lynx [IP Worker] di client.
+- Testing worker dilakukan dengan cara lynx [IP Worker] di client. <br>
 <img src="img/15-nginx.png">
 - Testing dilakukan dengan cara memasukkan command `ab -n 1000 -c 10 http://10.72.2.4/` (IP Mylta)
 
@@ -1093,7 +1093,7 @@ Dapat dilihat pada nomor 13
 Dapat dilihat pada nomor 14
 
 - Untuk nomor 15 dapat dilihat pada file pdf di repository ini.
-- Testing dilakukan dengan cara memasukkan command `ab -n 1000 -c 10 http://10.72.2.4/` (IP Mylta)
+- Testing Apache Benchmark dilakukan dengan cara memasukkan command `ab -n 1000 -c 10 http://10.72.2.4/` (IP Mylta)
 
 <a name="soal-16"></a>
 
