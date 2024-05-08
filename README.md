@@ -1094,7 +1094,8 @@ Dapat dilihat pada nomor 13
 #### Load Balancer Nginx
 Dapat dilihat pada nomor 14
 
-- Untuk nomor 15 dapat dilihat pada file pdf di repository ini.
+- Untuk nomor 15 dapat dilihat pada file pdf di repository ini. [Link to Soal 15 - Analisis Load Balancer - IT17.pdf](Soal_15_Analisis_Load_Balancer_IT17.pdf)
+
 - Testing Apache Benchmark dilakukan dengan cara memasukkan command `ab -n 1000 -c 10 http://10.72.2.4/` (IP Mylta)
 
 <a name="soal-16"></a>
