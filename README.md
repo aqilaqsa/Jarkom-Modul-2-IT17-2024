@@ -844,7 +844,8 @@ echo "Tanggal saat ini: $date<br>";
 <img src="img/13.1.png">
 <img src="img/13.2.png">
 - Testing worker dilakukan dengan cara lynx [IP Worker] di client. <br>
-<img src="img/15-apache.png">
+
+<br><img src="img/15-apache.png">
 - Testing load balancer dilakukan dengan cara memasukkan command `ab -n 1000 -c 10 http://10.72.2.4/` (IP Mylta).
 
 <a name="soal-14"></a>
@@ -1071,7 +1072,8 @@ service nginx status
 <img src="img/14-worker5.jpg">
 <img src="img/14-worker6.jpg">
 - Testing worker dilakukan dengan cara lynx [IP Worker] di client. <br>
-<img src="img/15-nginx.png">
+
+<br><img src="img/15-nginx.png">
 - Testing dilakukan dengan cara memasukkan command `ab -n 1000 -c 10 http://10.72.2.4/` (IP Mylta)
 
 <a name="soal-15"></a>
