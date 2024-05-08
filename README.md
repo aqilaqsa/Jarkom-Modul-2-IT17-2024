@@ -1094,7 +1094,7 @@ Dapat dilihat pada nomor 13
 #### Load Balancer Nginx
 Dapat dilihat pada nomor 14
 
-- Untuk nomor 15 dapat dilihat pada file pdf di repository ini. [Link to Soal 15 - Analisis Load Balancer - IT17.pdf](Soal_15_Analisis_Load_Balancer_IT17.pdf)
+- Untuk nomor 15 dapat dilihat pada file pdf di repository ini. [Link to Soal 15 - Analisis Load Balancer - IT17.pdf](Soal 15 - Analisis Load Balancer - IT17.pdf)
 
 - Testing Apache Benchmark dilakukan dengan cara memasukkan command `ab -n 1000 -c 10 http://10.72.2.4/` (IP Mylta)
 
@@ -1180,7 +1180,7 @@ echo "BIND and Nginx configurations for ${DOMAIN} have been successfully updated
 - Testing dilakukan di salah satu client, dengan command `ab -n [jumlah requests] -c 10 http://mylta.IT17.com/` atau `ab -n [jumlah request] -c 10 http://www.mylta.IT17.com/`.
 
 <img src="img/16-mylta.it.jpg">
-<img src="img/16-www-mylta.it.jpg">
+<img src="img/16-www.mylta.it.jpg">
 
 <a name="soal-17"></a>
 
